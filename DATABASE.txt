@@ -1,0 +1,5 @@
+userids = {
+[675170477] = true,
+---[игрок ебать] = true
+}
+return userids
