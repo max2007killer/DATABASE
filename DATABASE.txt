@@ -5,6 +5,7 @@ userids = {
 [3948562343] = true, ---TestAccount1414461
 [1767198766] = true, ---Blink#0069 6 дней
 [1341783730] = true, ---BrO_Ne_BoY#6195 безлимит
+[669803946] = true,  ---Какойто олдспак
 ---[игрок ебать] = true
 }
 return userids
